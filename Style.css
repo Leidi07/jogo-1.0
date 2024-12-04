@@ -1,0 +1,37 @@
+body {
+background-color:plum;
+color: black;
+font-family: "DynaPuff", system-ui;
+display: flex;
+justify-content: center;
+align-items: center;
+height: 600px;
+margin: 0;
+}
+
+button{
+background-color: powderblue;
+color: black;
+font-family: "DynaPuff", system-ui;
+}
+.passo{
+display: none;
+}
+.passo.ativo {
+    display:block;
+}
+
+
+main{ 
+    text-align: center;
+    max-width: 90%;
+}
+
+
+img {
+    max-width: 80%;
+      }
+
+
+
+
